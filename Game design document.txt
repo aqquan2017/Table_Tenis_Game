@@ -1,0 +1,32 @@
+Table Tennis Game
+
+1/ Project Concept
++ Điều khiển người chơi trong môi trường 3D/VR game
++ Trên sân đấu bóng bàn
++ Điều khiển nhân vật đánh bóng và đỡ bóng
+
+2/ Basic Gameplay
++ Trong game, người chơi sẽ được phát bóng đến đối thủ của họ..
++ Đk chiến thắng: Người chơi hoặc máy đến 11 điểm trước
++ Luật chơi tương tự như game bóng bàn (Người chơi phải đánh trúng sân đối thủ mới được tính)
+
+3/ Sound & Effect
++ Background sound: Nhạc vui vẻ
++ Hit sound : Khi người chơi đánh trúng bóng hoặc bóng va chạm
+
+4/ Gameplay Mechanics
++ AI của máy di chuyển nhanh hơn (Tốc độ tỷ lệ thuận với số điểm của người chơi)
+
+5/ User Interface
++ Số điểm của 2 người chơi sẽ hiển thị ở mặt bàn khi có ai đó vừa ghi điểm (Tồn tại 3s)
++ Bắt đầu game sẽ xuất hiện thống kê điểm 1 lần
++ Kết thúc game khi player hoặc AI khi đc 11 điểm - Có UI Thông báo chiến thắng
+
+6/ Other Features (Chưa có)
+
+__________________________________________________________
+Project Timeline
+Day 1: Xây dựng môi trường, setup người chơi, viết GDD, Class Diagram
+Day 2:
+Day 3:
+Day 4:
