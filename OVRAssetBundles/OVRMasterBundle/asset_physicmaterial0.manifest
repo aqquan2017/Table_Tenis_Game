@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1039431735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f92f1ecf202a187fd068d74c773c310
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4d58da2e394c3ac790f4c422276af4f
+HashAppended: 0
+ClassTypes:
+- Class: 134
+  Script: {instanceID: 0}
+Assets:
+- Assets/TheCloudCreator/Single Assets/000002 - Beach Bat/Materials/Physical/Wood.physicMaterial
+Dependencies: []

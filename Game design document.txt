@@ -26,7 +26,4 @@ Table Tennis Game
 
 __________________________________________________________
 Project Timeline
-Day 1: Xây dựng môi trường, setup người chơi, viết GDD, Class Diagram
-Day 2:
-Day 3:
-Day 4:
+https://docs.google.com/spreadsheets/d/1QMCN9132XaheoK35DKyAsr-2qWjoXcoqARg4IOKDLPk/edit#gid=1115838130

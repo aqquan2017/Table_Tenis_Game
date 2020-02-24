@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 48251091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89be34e6633bee4bbd24ac9acfad7481
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/TheCloudCreator/Single Assets/000002 - Beach Bat/Textures/Basic maps/BeachBat1_AlbTra.tga
+- Assets/TheCloudCreator/Single Assets/000002 - Beach Bat/Textures/Basic maps/BeachBat1_MetSmo.tga
+- Assets/TheCloudCreator/Single Assets/000002 - Beach Bat/Textures/Basic maps/BeachBat1_Nor.tga
+Dependencies: []
