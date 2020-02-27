@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 223806106
+CRC: 1505477557
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f2ad6969686493cd438b5a3b154541b5
+    Hash: 8622fa2323f9a81a86d52fef0037e65a
   TypeTreeHash:
     serializedVersion: 2
     Hash: f881add57992e661af442a7356112ea5
@@ -44,7 +44,6 @@ Assets:
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_index_mask_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_point_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_anim.fbx
-- Assets/Oculus/SampleFramework/Usage/SharedAssets/Models/SportsBottle_01.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_fist_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_thumbs_up_anim.fbx

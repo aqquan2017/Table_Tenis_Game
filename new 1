@@ -1,1 +1,21 @@
 Tìm hiểu phàn cứng oculus (setup, build, test)
+
+Ngày 27/2/20
+(Sáng)
+- Task dự đinh trong ngày - ước tính time
+
+(Chiều)
+Báo cáo hàng ngày, trong ngày đã làm gì 
+
+-Gửi dự định từ bây h => về
+Sáng chiều báo cáo riêng.
+
+
+Ước lượng công việc 27/2/20
+9h - 12h -> Code và test chức năng người chơi thả và đánh bóng (Xử lý các lỗi bóng bay xuyên tường, k đúng hướng, tìm hiểu vật lý cho bóng,..)
+1h30 - 5h30 -> Xây dựng gameplay (Tính điểm khi bóng chạm sân đối phương, ngược lại, bắt đầu phát cho đến kết thúc tính điểm)
+Ngoài ra: Tìm hiểu và học về các design patterm (Delegate, observer,..) ->Cải thiện class diagram
+
+
+PLANNING:
+	Design web: 1,31 out

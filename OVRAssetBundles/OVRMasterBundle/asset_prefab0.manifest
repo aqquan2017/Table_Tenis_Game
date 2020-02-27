@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1986259621
+CRC: 2775976880
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e56b9627df58b50d7fac20ededc40c4
+    Hash: 8aa20c86e196bd5b44e7e69a76146bb7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 966c538f44e70c18dd8367bf73045f98
+    Hash: 723a2fa71e5ad9d56b3ddf7ccfc4138d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,8 +27,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
 - Class: 90
@@ -44,8 +42,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 0950df82e7936c84983497630bde5b54, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b388ff4c8d1f3644a143b16d45403ca, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b71d1996d67004241a3b69960856ffcb, type: 3}
@@ -54,9 +50,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 7d1a7708e76601b4ea829921c33bc624, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 79b7e65854ace8f44b05c52c6e824354, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02d61468f8b77ae4b92c344bc9a600fb, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4f07515ada089df47868559a20dd6783, type: 3}
 - Class: 114
@@ -74,20 +70,14 @@ ClassTypes:
 - Class: 143
   Script: {instanceID: 0}
 Assets:
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Prefabs/OutlineItems/DistanceGrabOculusWaterBottlePf.prefab
-- Assets/Oculus/SampleFramework/Core/DistanceGrab/Prefabs/DistanceGrabHandLeft.prefab
 - Assets/TheCloudCreator/Single Assets/000002 - Beach Bat/Prefabs/BeachBat1.prefab
 - Assets/Prefabs/Ball.prefab
 - Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandLeft.prefab
 - Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandRight.prefab
-- Assets/Oculus/SampleFramework/Core/DistanceGrab/Prefabs/DistanceGrabHandRight.prefab
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Prefabs/GrabOffsetsAndPoses/GrabOffsetSportsBottle.prefab
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Prefabs/GrabOffsetsAndPoses/GrabOffsetPingPongBall.prefab
 - Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab
 Dependencies:
-- E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_mat0
 - E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_mat0
 - E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_controller0
 - E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_physicmaterial0
-- E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_asset0

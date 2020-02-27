@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2754841318
+CRC: 640146299
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b68f6c4264de72256cfa51f8ea76a875
+    Hash: 87ed6c710bd32c4b9137f55a37a9007b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b4b7838ca4dcd2c4dc20d55796f4fcda
+    Hash: 304c7b21c022ffafd14f7b7bc698fb08
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -37,6 +37,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
 - Class: 89
   Script: {instanceID: 0}
 - Class: 90
@@ -58,13 +62,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 3b64e1629eced13468d7ea7af0e4aa38, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0950df82e7936c84983497630bde5b54, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: eaa5bd13a568c324da0d3e82fa823795, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6b388ff4c8d1f3644a143b16d45403ca, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
 - Class: 114
@@ -74,9 +78,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 7d1a7708e76601b4ea829921c33bc624, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 79b7e65854ace8f44b05c52c6e824354, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02d61468f8b77ae4b92c344bc9a600fb, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4f07515ada089df47868559a20dd6783, type: 3}
 - Class: 114
@@ -114,5 +118,7 @@ ClassTypes:
 Assets:
 - Assets/Scenes/Gameplay.unity
 Dependencies:
+- E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_physicmaterial0
 - E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_mat0
 - E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- E:/Unity/Table_Tenis_Game/OVRAssetBundles/OVRMasterBundle/asset_mp30

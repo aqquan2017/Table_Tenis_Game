@@ -6,10 +6,12 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-    public AudioSource bgSound;
-    public AudioSource interactSound;
-    public AudioSource loseSound;
-    public AudioSource winSound;
+    private AudioSource audioMain = new AudioSource();
+
+    public AudioClip bgSound;
+    public AudioClip interactSound;
+    public AudioClip loseSound;
+    public AudioClip winSound;
 
     public bool turnState = true;
 
@@ -23,6 +25,9 @@ public class GameManager : MonoBehaviour
             instance = this;
         }
         else Destroy(this.gameObject);
+
+        
+        
     }
 
     // Update is called once per frame
